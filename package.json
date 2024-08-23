@@ -16,6 +16,9 @@
   "bugs": {
     "url": "http://github.com/request/request/issues"
   },
+  "publishConfig": {
+     "robtrigger007:registry": "https://npm.pkg.github.com"
+  },
   "license": "Apache-2.0",
   "engines": {
     "node": ">= 6"
