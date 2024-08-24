@@ -8,13 +8,13 @@
     "utility"
   ],
   "version": "3.0.0",
-  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "author": "Robert Goodsell",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/request/request.git"
+    "url": "git+https://github.com/robtigger20/request.git"
   },
   "bugs": {
-    "url": "http://github.com/request/request/issues"
+    "url": "http://github.com/robtigger20/request/issues"
   },
   "license": "Apache-2.0",
   "engines": {
@@ -83,7 +83,7 @@
       "har-validator"
     ]
   },
-  "homepage": "https://github.com/request/request#readme",
+  "homepage": "https://github.com/robtigger20/request#readme",
   "directories": {
     "example": "examples",
     "lib": "lib",
